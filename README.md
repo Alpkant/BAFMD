@@ -21,3 +21,18 @@ There are two different annotation files for each image. Both annotation files h
 
 
 
+
+## Citation ##
+These dataset has been explained and has been used in [our paper]([https://arxiv.org/abs/2103.08773](https://arxiv.org/abs/2211.01207)). Please cite our paper, if you downloaded and used our dataset.
+
+```
+@misc{kantarci2022,
+  doi = {10.48550/ARXIV.2211.01207},
+  url = {https://arxiv.org/abs/2211.01207},
+  author = {Kantarcı, Alperen and Ofli, Ferda and Imran, Muhammad and Ekenel, Hazım Kemal},
+  title = {Bias-Aware Face Mask Detection Dataset},
+  publisher = {arXiv},
+  year = {2022},
+}
+
+```
