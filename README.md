@@ -11,8 +11,8 @@ Fig. 2 : Images are collected from Twitter and therefore contain pictures from d
 
 
 ## About the Dataset and How to Download
-BAFMD_image_urls.tsv contains all the annotated image names and their URLs. First column shows the image filename and second column shows the URL.
-If you run the fetch_dataset.py script, it will download all the available images and place them to the different folders (train_set and test_set). Also, the script will move the annotations to the regarding folders. Please note that downloading process takes some time.
+<a href="BAFMD_image_urls.tsv">BAFM_image_urls.tsv</a> contains all the annotated image names and their URLs. First column shows the image filename and second column shows the URL.
+If you run the <a href="fetch_dataset.py">fetch_dataset.py</a> script, it will download all the available images and place them to the different folders (train_set and test_set). Also, the script will move the annotations to the regarding folders. Please note that downloading process takes some time.
 
 ## Annotation Type 
 There are two different annotation files for each image. Both annotation files have the same bounding boxes. Regarding your label format, you can choose the one that you will use. 
