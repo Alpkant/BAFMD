@@ -19,11 +19,12 @@ There are two different annotation files for each image. Both annotation files h
 1-) image_name.txt annotation that uses YOLO labeling format which is object class, object coordinates, height, and width. All of them are normalized between 0 and 1
 2-) image_name.xml annotation that uses Pascal VOC labeling format. It contains image size, object coordinates and class names. 
 
-
-
+## Dataset Copyrights 
+Bias Aware Face Mask Detection (BAFMD) dataset is available for non-commercial research purposes only.
+The dataset collected from Twitter, therefore you have to check the licensing information from Twitter to use the images for your purpose.
 
 ## Citation ##
-These dataset has been explained and has been used in [our paper]([https://arxiv.org/abs/2103.08773](https://arxiv.org/abs/2211.01207)). Please cite our paper, if you downloaded and used our dataset.
+This dataset has been explained and has been used in [our paper]([https://arxiv.org/abs/2103.08773](https://arxiv.org/abs/2211.01207)). Cite our paper, if you downloaded and used our dataset.
 
 ```
 @misc{kantarci2022,
