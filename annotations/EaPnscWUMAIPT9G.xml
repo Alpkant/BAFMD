@@ -1,0 +1,38 @@
+<annotation>
+	<folder>asian_images</folder>
+	<filename>EaPnscWUMAIPT9G.jpg</filename>
+	<path>C:\Users\Alperen\Desktop\qatar_new_dataset\asian_images\EaPnscWUMAIPT9G.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1030</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>376</xmin>
+			<ymin>39</ymin>
+			<xmax>487</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>775</xmin>
+			<ymin>145</ymin>
+			<xmax>864</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

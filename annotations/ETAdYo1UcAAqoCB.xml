@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>asian_images</folder>
+	<filename>ETAdYo1UcAAqoCB.jpg</filename>
+	<path>C:\Users\Alperen\Desktop\qatar_new_dataset\asian_images\ETAdYo1UcAAqoCB.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>811</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>152</ymin>
+			<xmax>467</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Canada</folder>
+	<filename>Ea6_IY4XsAA98Pu.jpg</filename>
+	<path>C:\Users\Alperen\Downloads\final_annotations_Canada\Canada\Ea6_IY4XsAA98Pu.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1020</width>
+		<height>689</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>163</ymin>
+			<xmax>351</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>711</xmin>
+			<ymin>138</ymin>
+			<xmax>841</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

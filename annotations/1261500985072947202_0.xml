@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>collection1_annotations</folder>
+	<filename>1261500985072947202_0.jpg</filename>
+	<path>C:\Users\Alperen\Desktop\collection_initial\collection1_annotations\1261500985072947202_0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>963</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>454</xmin>
+			<ymin>206</ymin>
+			<xmax>575</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

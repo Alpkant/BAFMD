@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Canada</folder>
+	<filename>Eaj9UQ9WsAYgo-T.jpg</filename>
+	<path>C:\Users\Alperen\Downloads\final_annotations_Canada\Canada\Eaj9UQ9WsAYgo-T.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>502</xmin>
+			<ymin>120</ymin>
+			<xmax>660</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

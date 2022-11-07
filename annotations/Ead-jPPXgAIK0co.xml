@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Canada</folder>
+	<filename>Ead-jPPXgAIK0co.jpg</filename>
+	<path>C:\Users\Alperen\Downloads\final_annotations_Canada\Canada\Ead-jPPXgAIK0co.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>584</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>224</ymin>
+			<xmax>317</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>569</xmin>
+			<ymin>217</ymin>
+			<xmax>639</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>990</xmin>
+			<ymin>223</ymin>
+			<xmax>1058</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

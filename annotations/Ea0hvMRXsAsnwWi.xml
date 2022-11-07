@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>Canada</folder>
+	<filename>Ea0hvMRXsAsnwWi.jpg</filename>
+	<path>C:\Users\Alperen\Downloads\final_annotations_Canada\Canada\Ea0hvMRXsAsnwWi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>649</xmin>
+			<ymin>451</ymin>
+			<xmax>900</xmax>
+			<ymax>971</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>400</ymin>
+			<xmax>239</xmax>
+			<ymax>583</ymax>
+		</bndbox>
+	</object>
+</annotation>

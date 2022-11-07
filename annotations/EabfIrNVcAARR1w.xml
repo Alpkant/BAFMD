@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Canada</folder>
+	<filename>EabfIrNVcAARR1w.jpg</filename>
+	<path>C:\Users\Alperen\Downloads\final_annotations_Canada\Canada\EabfIrNVcAARR1w.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>951</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>152</ymin>
+			<xmax>368</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

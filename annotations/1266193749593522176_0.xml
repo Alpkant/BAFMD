@@ -1,0 +1,38 @@
+<annotation>
+	<folder>collection_new_berat</folder>
+	<filename>1266193749593522176_0.jpg</filename>
+	<path>C:\Users\Alperen\Desktop\collection_new_berat\1266193749593522176_0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>665</ymin>
+			<xmax>318</xmax>
+			<ymax>737</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>508</xmin>
+			<ymin>517</ymin>
+			<xmax>862</xmax>
+			<ymax>1026</ymax>
+		</bndbox>
+	</object>
+</annotation>

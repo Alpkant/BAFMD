@@ -1,0 +1,50 @@
+<annotation verified="yes">
+	<folder>indian_images</folder>
+	<filename>EaP8Hm6UwAAVEgb.jpg</filename>
+	<path>C:\Users\Alperen\Desktop\qatar_new_dataset\indian_images\EaP8Hm6UwAAVEgb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>420</xmin>
+			<ymin>189</ymin>
+			<xmax>480</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>982</xmin>
+			<ymin>299</ymin>
+			<xmax>1062</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>139</ymin>
+			<xmax>190</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

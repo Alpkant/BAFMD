@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>black_images</folder>
+	<filename>ET0jdovWkAAa-z7.jpg</filename>
+	<path>C:\Users\Alperen\Desktop\qatar_new_dataset\black_images\ET0jdovWkAAa-z7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>442</ymin>
+			<xmax>474</xmax>
+			<ymax>747</ymax>
+		</bndbox>
+	</object>
+</annotation>

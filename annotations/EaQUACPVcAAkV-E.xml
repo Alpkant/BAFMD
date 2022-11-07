@@ -1,0 +1,50 @@
+<annotation>
+	<folder>indian_images</folder>
+	<filename>EaQUACPVcAAkV-E.jpg</filename>
+	<path>C:\Users\Alperen\Desktop\qatar_new_dataset\indian_images\EaQUACPVcAAkV-E.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>665</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>152</ymin>
+			<xmax>232</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>719</xmin>
+			<ymin>90</ymin>
+			<xmax>818</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>447</xmin>
+			<ymin>106</ymin>
+			<xmax>530</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

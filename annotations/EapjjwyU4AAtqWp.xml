@@ -1,0 +1,26 @@
+<annotation>
+	<folder>indian_images</folder>
+	<filename>EapjjwyU4AAtqWp.jpg</filename>
+	<path>C:\Users\Alperen\Desktop\qatar_new_dataset\indian_images\EapjjwyU4AAtqWp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>687</xmin>
+			<ymin>150</ymin>
+			<xmax>829</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

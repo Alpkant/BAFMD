@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Canada</folder>
+	<filename>Eak-MhZU0AEw6vh.jpg</filename>
+	<path>C:\Users\Alperen\Downloads\final_annotations_Canada\Canada\Eak-MhZU0AEw6vh.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1163</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>459</xmin>
+			<ymin>111</ymin>
+			<xmax>558</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>
