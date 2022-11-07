@@ -11,11 +11,29 @@ Fig. 2 : Images are collected from Twitter and therefore contain pictures from d
 
 
 ## How to Download
-Please fill out [this form](https://docs.google.com/document/d/e/2PACX-1vQvttLsI2FcfytyJQwTPXG5KneD1JFPuFmCGJ5E-n6wUkEZF11iM8yD2xDs4MYK3EZMNSLfoymXOgVS/pub
-) and then email/notify bafmd@googlegroups.com to request the data. After the approval, you will get BAFMD_image_urls.tsv and annotation files. 
-<a href="BAFMD_image_urls.tsv">BAFM_image_urls.tsv</a> contains all the annotated image names and their URLs. First column shows the image filename and second column shows the URL.
+Please fill out [this form](https://forms.gle/H7tMCZaeXDKzVH3QA) and then email/notify bafmd@googlegroups.com to request the data. After the approval, you will get BAFMD_image_urls.tsv and annotation files. 
+BAFM_image_urls.tsv contains all the annotated image names and their URLs. First column shows the image filename and second column shows the URL.
 
-You should put annotations and BAFMD_image_urls.tsv to the same folder with <a href="fetch_dataset.py">fetch_dataset.py</a> script. If you run the <a href="fetch_dataset.py">fetch_dataset.py</a> script, it will download all the available images and place them to the different folders (train_set and test_set). Also, the script will move the annotations to the regarding folders. Please note that downloading process takes some time.
+You should put annotation folder and BAFMD_image_urls.tsv to the same folder with <a href="fetch_dataset.py">fetch_dataset.py</a> script. Your dataset folder should like this
+
+```
+BAFMD Dataset Folder
+│   BAFMD_image_urls.tsv
+│   BAFMD_train_images.txt    
+│   BAFMD_test_images.txt
+|   fetch_dataset.py
+└───annotations
+│    │   image1.jpg
+│    │   image1.txt
+│    |   image1.xml
+│    │   image2.jpg
+│    │   .
+│    │   .
+
+```
+
+If you run the <a href="fetch_dataset.py">fetch_dataset.py</a> script, it will download all the available images and place them to the different folders (train_set and test_set). Also, the script will move the annotations to the regarding folders. Please note that downloading process takes some time. 
+
 
 ## Annotation Type 
 There are two different annotation files for each image. Both annotation files have the same bounding boxes. Regarding your label format, you can choose the one that you will use. 
