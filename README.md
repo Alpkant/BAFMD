@@ -11,10 +11,12 @@ Fig. 2 : Images are collected from Twitter and therefore contain pictures from d
 
 
 ## How to Download
-Please fill out [this form](https://forms.gle/H7tMCZaeXDKzVH3QA) and then email/notify bafmd@googlegroups.com to request the data. After the approval, you will get BAFMD_image_urls.tsv and annotation files. 
+Please fill out [this form](https://forms.gle/H7tMCZaeXDKzVH3QA) and then email/notify bafmd@googlegroups.com to request the data. After the approval, you will get image URLs, train/test splits and annotation files. 
 BAFM_image_urls.tsv contains all the annotated image names and their URLs. First column shows the image filename and second column shows the URL.
+BAFMD_train_images.txt contains image names that are belong to the training set that has been used in the paper.
+BAFMD_test_images.txt contains image names that are belong to the test set that has been used in the paper.
 
-You should put annotation folder and BAFMD_image_urls.tsv to the same folder with <a href="fetch_dataset.py">fetch_dataset.py</a> script. Your dataset folder should look like this.
+You should put annotation folder and all other files under the same folder with <a href="fetch_dataset.py">fetch_dataset.py</a> script. Your dataset folder should look like this.
 
 ```
 BAFMD Dataset Folder
