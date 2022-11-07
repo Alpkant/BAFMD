@@ -14,7 +14,7 @@ Fig. 2 : Images are collected from Twitter and therefore contain pictures from d
 Please fill out [this form](https://forms.gle/H7tMCZaeXDKzVH3QA) and then email/notify bafmd@googlegroups.com to request the data. After the approval, you will get BAFMD_image_urls.tsv and annotation files. 
 BAFM_image_urls.tsv contains all the annotated image names and their URLs. First column shows the image filename and second column shows the URL.
 
-You should put annotation folder and BAFMD_image_urls.tsv to the same folder with <a href="fetch_dataset.py">fetch_dataset.py</a> script. Your dataset folder should like this
+You should put annotation folder and BAFMD_image_urls.tsv to the same folder with <a href="fetch_dataset.py">fetch_dataset.py</a> script. Your dataset folder should look like this.
 
 ```
 BAFMD Dataset Folder
@@ -42,10 +42,11 @@ There are two different annotation files for each image. Both annotation files h
 
 2-) image_name.xml annotation that uses Pascal VOC labeling format. It contains image size, object coordinates and class names. 
 
-## Dataset Copyrights 
+## Licence and Terms of Use
+This work is licensed with the MIT License. See [LICENSE](LICENSE) for details.
+By downloading the data you accept the [BAFMD dataset Terms of Usage.](https://bit.ly/BAFMD-terms-of-usage)
 Bias Aware Face Mask Detection (BAFMD) dataset is available for non-commercial research purposes only.
-
-The dataset collected from Twitter, therefore you have to check the licensing information from Twitter to use the images for your purpose.
+The dataset collected from Twitter, therefore you have to check the terms of usage from Twitter to use the images for your purpose as well.
 
 ## Citation ##
 This dataset has been explained and has been used in [our paper]([https://arxiv.org/abs/2103.08773](https://arxiv.org/abs/2211.01207)). Cite our paper, if you downloaded and used our dataset.
