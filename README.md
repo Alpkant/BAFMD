@@ -51,10 +51,15 @@ Bias Aware Face Mask Detection (BAFMD) dataset is available for non-commercial r
 The dataset collected from Twitter, therefore you have to check the terms of usage from Twitter to use the images for your purpose as well.
 
 ## Citation ##
-This dataset has been explained and has been used in [our paper]([https://arxiv.org/abs/2103.08773](https://arxiv.org/abs/2211.01207)). Cite our paper, if you downloaded and used our dataset.
-
+This dataset has been explained and has been used in [our preprint](https://arxiv.org/abs/2211.01207) and [article](https://link.springer.com/article/10.1007/s11042-024-20226-7). Please cite our paper, if you downloaded and used our dataset.
+You can cite it as : 
 ```
-@article{kantarci2022,
+Kantarcı, A., Ofli, F., Imran, M. et al. Bias-aware face mask detection dataset. Multimed Tools Appl (2024). https://doi.org/10.1007/s11042-024-20226-7
+```
+
+or the following bibtex:
+```
+@article{BAFMD2024,
   doi = {https://doi.org/10.1007/s11042-024-20226-7},
   url = {https://link.springer.com/article/10.1007/s11042-024-20226-7},
   author = {Kantarcı, Alperen and Ofli, Ferda and Imran, Muhammad and Ekenel, Hazım Kemal},
