@@ -54,13 +54,13 @@ The dataset collected from Twitter, therefore you have to check the terms of usa
 This dataset has been explained and has been used in [our paper]([https://arxiv.org/abs/2103.08773](https://arxiv.org/abs/2211.01207)). Cite our paper, if you downloaded and used our dataset.
 
 ```
-@misc{kantarci2022,
-  doi = {10.48550/ARXIV.2211.01207},
-  url = {https://arxiv.org/abs/2211.01207},
+@article{kantarci2022,
+  doi = {https://doi.org/10.1007/s11042-024-20226-7},
+  url = {https://link.springer.com/article/10.1007/s11042-024-20226-7},
   author = {Kantarcı, Alperen and Ofli, Ferda and Imran, Muhammad and Ekenel, Hazım Kemal},
   title = {Bias-Aware Face Mask Detection Dataset},
-  publisher = {arXiv},
-  year = {2022},
+  journal = {Multimedia Tools and Applications},
+  publisher={Springer},
+  year = {2024},
 }
-
 ```
